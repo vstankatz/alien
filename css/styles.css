@@ -1,0 +1,29 @@
+h1{
+  font-style: oblique;
+  font-size: 50px;
+  color: #8907ff;
+
+
+}
+
+.boring { color: yellow;
+  font-family: monospace;
+  background-color: #ff0000
+
+}
+
+.exciting {
+  font-style: italic;color: #8734ff;font-kerning: auto;
+
+}
+
+.mediocre {
+  color: grey; width: 50%;font-stretch: expanded;text-transform: capitalize;
+
+
+}
+
+.wow { width: 20%; font-family: "Comic Sans MS"; color: blue;text-align: center;margin: 50px 100px 50px 200px;
+
+
+}
